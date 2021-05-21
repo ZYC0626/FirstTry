@@ -41,3 +41,5 @@ Git windows 無法登入 改用Access token , 建立Token流程 https://docs.git
 
 Git 建立靜態網站 https://w3c.hexschool.com/git/21756c99
 
+Git 上傳後Page 未更新 https://stackoverflow.com/questions/11577147/how-to-fix-http-404-on-github-pages
+
